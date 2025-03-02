@@ -1,4 +1,4 @@
-[Pharmacy-Management-System(https://github.com/Kartikbhaipatil/pharmacy_management_php)]
+[Pharmacy-Management-System]
 The project aims to assist a pharmacy in managing its inventory, details of customers, employees and suppliers as well as keeping track of its purchases and sales. It is a web-based application implemented using PHP with MySQL as the Database Management System. User Interface is designed using HTML5, CSS3 and JavaScript.
 
 ###Getting Started
