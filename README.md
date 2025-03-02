@@ -14,7 +14,7 @@ After successfully importing, start the project by typing the following in the w
 The Login Page for Admin opens up by default. Login as Admin by using:
 - Username: admin
 - Password: admin123
-For Pharmacist Login, refer to the 'emplogin' table in the database. Example:
+1. For Pharmacist Login,
 - Username: piyush
 - Password: piyush123
 About the Project
